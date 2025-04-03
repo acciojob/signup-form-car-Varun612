@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+form input {
+	border: solid  grey 1px;
+	border-radius: 5px;
+	height: 29px;
+	background-color: #whitesmoke;
+}
